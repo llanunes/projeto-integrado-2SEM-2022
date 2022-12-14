@@ -123,7 +123,7 @@ Para entregar o seu projeto você deverá criar um Pull Request deste repositór
 
 # Critérios de Avaliação
 ## Banco de dados
-- [x ] Deverá ser criado o modelo conceitual do projeto.
+- [ ] Deverá ser criado o modelo conceitual do projeto.
 - [ ] Deverá ser criado o modelo lógico do banco de dados.
 - [ ] Os scripts para criação do Banco de dados devem ser disponibilizados como um entregável do projeto.
 - [ ] A utilização de recursos como View, Procedures e Functions é uma boa prática que deve ser levado em consideração no processo de desenvolvimento do projeto.
